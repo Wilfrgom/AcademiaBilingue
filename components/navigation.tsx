@@ -40,7 +40,7 @@ export function Navigation() {
                 ))}
               </div>
 
-              <Link href="/contact" className="button small-button">
+              <Link href="/contact" className="button small-button" style={{ flex: "0 auto" }}>
                 <div className="button-text-wrapper">
                   <span className="regular-s">Contact Us</span>
                   <span className="regular-s absolute">Contact Us</span>
